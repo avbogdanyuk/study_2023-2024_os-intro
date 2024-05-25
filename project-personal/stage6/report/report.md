@@ -1,7 +1,7 @@
 ---
 ## Front matter
 title: "Индивидуальный проект"
-subtitle: "Этап 2"
+subtitle: "Этап 6"
 author: "Богданюк Анна Васильевна"
 
 ## Generic otions
@@ -33,10 +33,10 @@ polyglossia-otherlangs:
 babel-lang: russian
 babel-otherlangs: english
 ## Fonts
-mainfont: PT Mono
-romanfont: PT Mono
-sansfont: PT Mono
-monofont: PT Mono
+mainfont: DejaVuSerif
+romanfont: DejaVuSerif
+sansfont: DejaVuSans
+monofont: DejaVuSansMono
 mainfontoptions: Ligatures=TeX
 romanfontoptions: Ligatures=TeX
 sansfontoptions: Ligatures=TeX,Scale=MatchLowercase
@@ -72,54 +72,31 @@ header-includes:
 
 # Задание
 
-1. 
-
-# Теоретическое введение
-
-
+1. Сделать поддержку английского и русского языков.
+2. Разместить элементы сайта на обоих языках.
+3. Разместить контент на обоих языках.
+4. Сделать пост по прошедшей неделе.
+5. Добавить пост на тему по выбору (на двух языках).
 
 # Выполнение лабораторной работы
 
-Для (рис. 1).
+Для начала пишу пост о прошлой неделе на русском языке (рис. 1).
 
-![](image/1.png){#fig:001 width=70%}
+![Пишу пост](image/1.png){#fig:001 width=70%}
 
-Затем (рис. 2).
+Затем пишу на английском пост о прошлой неделе (рис. 2).
 
-![](image/2.png){#fig:002 width=70%}
+![Пишу пост](image/2.png){#fig:002 width=70%}
 
-Тепери (рис. 3).
+Теперь запускаю сайт, все посты отображаются, все отлично (рис. 3).
 
-![](image/3.png){#fig:003 width=70%}
-
-Затем (рис. 4).
-
-![](image/4.png){#fig:004 width=70%}
-
-Для (рис. 5).
-
-![](image/5.png){#fig:005 width=70%}
-
-Выполняю (рис. 6).
-
-![](image/6.png){#fig:006 width=70%}
-
-Данная (рис. 7).
-
-![](image/7.png){#fig:007 width=70%}
-
-Данная (рис. 8).
-
-![](image/8.png){#fig:008 width=70%}
-
-Теперь (рис. 9).
-
-![](image/9.png){#fig:009 width=70%}
-
-Делаем (рис. 10).
-
-![](image/10.png){#fig:010 width=70%}
+![Мой сайт](image/3.png){#fig:003 width=70%}
 
 # Выводы
 
 В ходе выполнения лабораторной работы были получены навыки правильной работы с репозиториями git.
+
+<!-- # Список литературы{.unnumbered}
+
+::: {#refs}
+::: -->
